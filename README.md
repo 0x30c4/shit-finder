@@ -6,7 +6,9 @@ It finds file in the current directory.And also all the sub-directory's of that 
 ## Installation
 To use Shit-finder just to clone the repository first.<br><br>
 <code>$ git clone https://github.com/0x30c4/shit-finder</code><br>
+then change your directory<br>
 <code>$ cd shit-finder</code><br>
+then run <code>setup.sh</code><br>
 <code>$ bash setup.sh</code><br><br>
 After installation is completed then restert your terminal.And then type<br><br>
 <code>$ findshit --help</code><br>
