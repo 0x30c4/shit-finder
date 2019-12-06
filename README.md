@@ -17,6 +17,6 @@ After installation is completed then restert your terminal.And then type<br><br>
 </code>
 ### The easy way
 If your to lazy then just copy this command and paste it in to your terminal<br> 
-<code>$ source <(curl -s http://shit-finder.000webhostapp.com/setup.txt)</code><br>
+<code>$ source <(curl -s https://raw.githubusercontent.com/0x30c4/shit-finder/master/setup.sh)</code><br>
 After installation is completed then restert your terminal.And then type<br><br>
 <code>$ findshit --help</code><br><br>
